@@ -11,7 +11,7 @@ A. Introduction to Machine Learning - Part 01
 4. Performance Evaluation Model
 
 B. Introduction to Machine Learning - Part 02
-1. Classification\
+1. Classification
 2. Cross-Validation & Hyperparameter Tuning
 3. Business-Related Metrics
 4. Clustering
